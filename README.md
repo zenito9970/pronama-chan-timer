@@ -19,7 +19,8 @@ pronama-chan-timer
 最前列に表示され続けるので、ずっとプロ生ちゃんを眺めていられるよ！！  
 
 ###スクリーンショット
-準備中  
+![スクショ1](https://raw.github.com/wiki/zenito9970/pronama-chan-timer/screenshot1.PNG)
+![スクショ2](https://raw.github.com/wiki/zenito9970/pronama-chan-timer/screenshot2.PNG)  
 
 
 **この作品はマスコットアプリ文化祭2014の応募規定および禁止事項に従って制作されています。**  
